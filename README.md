@@ -112,8 +112,8 @@ Through this project, I gained practical experience in:
 
 ## Author
 
-**Sachin Devarajan**
+**Saravanan**
 
-GitHub: [SachinDevarajan](https://github.com/SachinDevarajan)
+GitHub: [saravanan-velmurugan](https://github.com/saravanan-velmurugan)
 
-LinkedIn: [Sachin Devarajan](https://linkedin.com/in/sachindevarajan)
+LinkedIn: [https://www.linkedin.com/in/saravanan-v-21298a2a4)
